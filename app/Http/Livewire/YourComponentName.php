@@ -8,6 +8,6 @@ class YourComponentName extends Component
 {
     public function render()
     {
-        return view('livewire.your-component-name');
+        return view('livewire.your-component-name',['data' => 'data']);
     }
 }
