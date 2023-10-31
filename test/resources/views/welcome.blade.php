@@ -1,0 +1,1 @@
+@livewire('your-component-name')
